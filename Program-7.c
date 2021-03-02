@@ -17,7 +17,7 @@
     if (a[i]<=0)
    { break;}
 	  else 
-    {printf("%d",a[i]);
+    {printf("%d\t",a[i]);
     }}
     return(0);
 	}
