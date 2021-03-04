@@ -31,10 +31,10 @@ int main()
             large= arr[i];//missing code
         }
     }
-
-    printf("The largest element of the array = %d", large);
-    printf("\n");
-    printf("The smallest element of the array = %d",small);
+printf("The largest and smallest elements are %d and %d",large,small);
+   // printf("The largest element of the array = %d", large);
+  //  printf("\n");
+   // printf("The smallest element of the array = %d",small);
 
     return 0;
 }
